@@ -1,0 +1,39 @@
+[
+  {
+    "rating": "4.5",
+    "title":"THE WATER CURE",
+    "text":"Martin Hyatt",
+    "img": "images/img1.jpg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title":"PEACE LIFE",
+    "text":"Hazard Bin",
+    "img": "images/img2.jpg",
+    "audio": "June - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Day Remember",
+    "text":"Nicholos",
+    "img": "images/img3.jpg",
+    "audio": "Muriel - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"France",
+    "text":"Paris",
+    "img": "images/img4.jpg",
+    "audio": "Piano Trap.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Germany",
+    "text":"Berlin",
+    "img": "images/img5.jpg",
+    "audio": "Voices.mp3"
+  }
+
+
+]
